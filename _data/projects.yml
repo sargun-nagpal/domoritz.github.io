@@ -1,10 +1,10 @@
-- title: Multi-modal Object Detection based on NLQ
+- title: Multi-modal Detection via Language Queries
   code: https://github.com/sharad5/OWL-ViT-Object-Detection
   paper: /papers/2023-capstone.pdf
   image: owlvit.jpg
   description: "Trained multi-modal text-vision models for detecting previously unseen objects in video frames based on natural language
 queries."
-  highlight: 1
+  highlight: 2
 
 - title: LLMs for Code-Mixed Hate Speech Detection
   code: https://github.com/shikharras/cm-hate-speech-detection
@@ -12,7 +12,7 @@ queries."
   image: nlp_codemixed.jpg
   description: "Fine-tuned 7B parameter LLMs (LLaMa), BERT-based models (XLM-R), and zero-shot LLM Prompting for
 Hindi-English hate speech detection."
-  highlight: 2
+  highlight: 1
 
 - title: Video Frame Prediction and Segmentation with SSL
   code: https://github.com/sharad5/Video-Prediction-and-Segmentation/tree/dev
@@ -42,7 +42,7 @@ Hindi-English hate speech detection."
   article: https://www.linkedin.com/posts/sargun-nagpal_github-sharad5kaggle-data-science-ml-survey-analysis-activity-7015899359607201792-6gwm?utm_source=share&utm_medium=member_desktop
   image: stonks.jpg
   description: "Statistical analysis of job data (Hypothesis Testing), Salary Prediction (Regression), and Job Title Prediction (Classification)."
-  highlight: 5
+  highlight: 2
 
 
 - title: ML pipeline for covid-19 case prediction

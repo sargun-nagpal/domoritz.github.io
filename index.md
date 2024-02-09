@@ -9,11 +9,11 @@ class: home
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-Pursuing a **Master's in Data Science** at the [NYU Center for Data Science](https://cds.nyu.edu), I bring 3+ years of hands-on experience specializing in **Machine Learning and NLP**. As a Data Science Intern at [Marsh McLennan](https://en.wikipedia.org/wiki/Marsh_McLennan) (NY), I led the development of an impactful industry benchmarking pipeline, leveraging LLMs, Clustering, and Hypothesis Testing, thus showcasing my ability to translate raw data into actionable insights for insurance brokers.
+I am a **Master's in Data Science** student at the [NYU Center for Data Science](https://cds.nyu.edu) and bring 3+ years of hands-on experience specializing in **Machine Learning and NLP**. As a Data Science Intern at [Marsh McLennan](https://en.wikipedia.org/wiki/Marsh_McLennan) (NY), I led the development of an impactful industry benchmarking pipeline, leveraging LLMs, Clustering, and Hypothesis Testing, showcasing my ability to translate raw data into actionable insights for business stakeholders.
 
 Preceding my Master’s, I spent 2 years as a **Data Scientist** at [Fidelity Investments](https://fcatalyst.com/overview), pioneering data products that saved time and money for financial advisors and analysts. My contributions spanned Document Information Extraction, Text Summarization, and Email Fraud Detection.
 
-I love working on data for social good projects and as a **Research Scientist**, I published research papers on Statistics and ML for COVID-19 caseload prediction and devising interventions to mitigate infection outbreaks.
+I love working on data for social good projects and as a **Research Engineer**, I published research papers on Statistics and ML for COVID-19 caseload prediction and devising interventions to mitigate infection outbreaks.
 
 </div>
 
